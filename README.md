@@ -10,33 +10,17 @@ Becoming the Oppenheimer of projects. Using the power of AI to analyze a reposit
 4. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/DevHire-Extended.git
+   git clone https://github.com/Maaz-Imam/Project-Heimer.git
    ```
 
    Replace `your-username` with your GitHub username.
 
-## Create a Virtual Environment
 
 1. Navigate to the project directory using Command Prompt or Git Bash:
 
    ```bash
    cd Project-Heimer
    ```
-
-2. Create a virtual environment:
-
-   ```bash
-   pip install pipenv
-   ```
-
-3. Activate the virtual environment:
-
-   - Command Prompt:
-
-     ```bash
-     pipenv shell
-     ```
-
 
 ## Install Dependencies
 
