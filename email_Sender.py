@@ -8,7 +8,7 @@ from email.mime.multipart import MIMEMultipart
 context = ssl.create_default_context() 
 def send_otp_email(email,verification_code):
     devhire_email = "devhirecontact@gmail.com"
-    devhire_email_password = "fazxvkyfnonkvnsj"
+    devhire_email_password = "maaz ke whatsapp mein hai ye"
     mail_content = MIMEMultipart("alternative")
     mail_content['Subject'] = 'Project-Heimer One Time Verification'
     mail_content['From'] = devhire_email
